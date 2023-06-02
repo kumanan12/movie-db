@@ -23,20 +23,7 @@
         "Sport"
     ],
     "movies": [
-        {
-            "id": 1,
-            "title": "Beetlejuice",
-            "year": "1988",
-            "runtime": "92",
-            "genres": [
-                "Comedy",
-                "Fantasy"
-            ],
-            "director": "Tim Burton",
-            "actors": "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
-            "plot": "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg"
-        },
+        
         {
             "id": 2,
             "title": "The Cotton Club",
@@ -52,20 +39,7 @@
             "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg"
         },
-        {
-            "id": 3,
-            "title": "The Shawshank Redemption",
-            "year": "1994",
-            "runtime": "142",
-            "genres": [
-                "Crime",
-                "Drama"
-            ],
-            "director": "Frank Darabont",
-            "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
-            "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg"
-        },
+        
         {
             "id": 4,
             "title": "Crocodile Dundee",
@@ -124,20 +98,7 @@
             "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg"
         },
-        {
-            "id": 8,
-            "title": "Memento",
-            "year": "2000",
-            "runtime": "113",
-            "genres": [
-                "Mystery",
-                "Thriller"
-            ],
-            "director": "Christopher Nolan",
-            "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
-            "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-        },
+       
         {
             "id": 9,
             "title": "The Intouchables",
@@ -183,20 +144,7 @@
             "plot": "As the Mayan kingdom faces its decline, the rulers insist the key to prosperity is to build more temples and offer human sacrifices. Jaguar Paw, a young man captured for sacrifice, flees to avoid his fate.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM1NjYyNTY5OV5BMl5BanBnXkFtZTcwMjgwNTMzMQ@@._V1_SX300.jpg"
         },
-        {
-            "id": 12,
-            "title": "Taxi Driver",
-            "year": "1976",
-            "runtime": "113",
-            "genres": [
-                "Crime",
-                "Drama"
-            ],
-            "director": "Martin Scorsese",
-            "actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
-            "plot": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-        },
+      
         {
             "id": 13,
             "title": "No Country for Old Men",
@@ -345,20 +293,7 @@
             "plot": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
         },
-        {
-            "id": 23,
-            "title": "The Deer Hunter",
-            "year": "1978",
-            "runtime": "183",
-            "genres": [
-                "Drama",
-                "War"
-            ],
-            "director": "Michael Cimino",
-            "actors": "Robert De Niro, John Cazale, John Savage, Christopher Walken",
-            "plot": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzYmRmZTQtYjk2NS00MDdlLTkxMDAtMTE2YTM2ZmNlMTBkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
-        },
+      
         {
             "id": 24,
             "title": "Chasing Amy",
@@ -474,21 +409,7 @@
             "plot": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
         },
-        {
-            "id": 32,
-            "title": "Lucky Number Slevin",
-            "year": "2006",
-            "runtime": "110",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "director": "Paul McGuigan",
-            "actors": "Josh Hartnett, Bruce Willis, Lucy Liu, Morgan Freeman",
-            "plot": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss. Slevin is under constant surveillance by relentless Detective Brikowski as well as the infamous assassin Goodkat and finds himself having to hatch his own ingenious plot to get them before they get him.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc1OTEwMTk4OF5BMl5BanBnXkFtZTcwMTEzMDQzMQ@@._V1_SX300.jpg"
-        },
+        
         {
             "id": 33,
             "title": "Rear Window",
@@ -591,21 +512,7 @@
             "plot": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
             "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTQ4NDI3NDg4M15BMl5BanBnXkFtZTcwMjY5OTI1OA@@._V1_SX300.jpg"
         },
-        {
-            "id": 40,
-            "title": "L.A. Confidential",
-            "year": "1997",
-            "runtime": "138",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "director": "Curtis Hanson",
-            "actors": "Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell",
-            "plot": "As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWEwNDhhNWUtYWMzNi00ZTNhLWFiZDAtMjBjZmJhMTU0ZTY2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
-        },
+       
         {
             "id": 41,
             "title": "Moneyball",
@@ -745,20 +652,7 @@
             "plot": "A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_SX300.jpg"
         },
-        {
-            "id": 51,
-            "title": "Forrest Gump",
-            "year": "1994",
-            "runtime": "142",
-            "genres": [
-                "Comedy",
-                "Drama"
-            ],
-            "director": "Robert Zemeckis",
-            "actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
-            "plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
-        },
+        
         {
             "id": 52,
             "title": "The Hobbit: The Desolation of Smaug",
@@ -829,21 +723,7 @@
             "plot": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzNzY4MzE5NF5BMl5BanBnXkFtZTcwMzQ1MDMzMQ@@._V1_SX300.jpg"
         },
-        {
-            "id": 57,
-            "title": "Psycho",
-            "year": "1960",
-            "runtime": "109",
-            "genres": [
-                "Horror",
-                "Mystery",
-                "Thriller"
-            ],
-            "director": "Alfred Hitchcock",
-            "actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
-            "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
-        },
+        
         {
             "id": 58,
             "title": "North by Northwest",
@@ -977,36 +857,8 @@
             "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
             "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTc4OTkyOTA3OF5BMl5BanBnXkFtZTYwMDIxNjk5._V1_SX300.jpg"
         },
-        {
-            "id": 67,
-            "title": "Alive",
-            "year": "1993",
-            "runtime": "120",
-            "genres": [
-                "Adventure",
-                "Biography",
-                "Drama"
-            ],
-            "director": "Frank Marshall",
-            "actors": "Ethan Hawke, Vincent Spano, Josh Hamilton, Bruce Ramsay",
-            "plot": "Uruguayan rugby team stranded in the snow swept Andes are forced to use desperate measures to survive after a plane crash.",
-            "posterUrl": ""
-        },
-        {
-            "id": 68,
-            "title": "Casablanca",
-            "year": "1942",
-            "runtime": "102",
-            "genres": [
-                "Drama",
-                "Romance",
-                "War"
-            ],
-            "director": "Michael Curtiz",
-            "actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",
-            "plot": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwNDYyNTk2N15BMl5BanBnXkFtZTgwMjQ0OTMyMjE@._V1_SX300.jpg"
-        },
+       
+        
         {
             "id": 69,
             "title": "American Gangster",
@@ -1126,21 +978,7 @@
             "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
             "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDM4MTc2N15BMl5BanBnXkFtZTYwNDk0Mjc3._V1_SX300.jpg"
         },
-        {
-            "id": 77,
-            "title": "The Lord of the Rings: The Return of the King",
-            "year": "2003",
-            "runtime": "201",
-            "genres": [
-                "Action",
-                "Adventure",
-                "Drama"
-            ],
-            "director": "Peter Jackson",
-            "actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston",
-            "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-            "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_SX300.jpg"
-        },
+       
         {
             "id": 78,
             "title": "Oldboy",
